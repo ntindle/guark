@@ -24,7 +24,7 @@ func GenerateEmbed(files []string, destFile string, pkg string, root string) err
 //
 
 import (
-	"github.com/guark/guark/app"
+	"github.com/ntindle/guark/app"
 )
 
 var Embeds = &app.Embed{

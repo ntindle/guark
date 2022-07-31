@@ -12,7 +12,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/guark/guark/utils"
+	"github.com/ntindle/guark/utils"
 )
 
 type (

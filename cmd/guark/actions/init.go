@@ -13,7 +13,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/guark/guark/cmd/guark/utils"
+	"github.com/ntindle/guark/cmd/guark/utils"
 	"github.com/urfave/cli/v2"
 	"gopkg.in/yaml.v2"
 )
