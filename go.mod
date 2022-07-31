@@ -1,14 +1,11 @@
 module github.com/ntindle/guark
 
-replace golang.org/x/sys => golang.org/x/sys v0.0.0-20220704084225-05e143d24a9e
-
 go 1.18
 
 require (
 	github.com/Kodeworks/golang-image-ico v0.0.0-20141118225523-73f0f4cfade9
 	github.com/adrg/xdg v0.4.0
 	github.com/akavel/rsrc v0.10.2
-	github.com/ntindle/guark v0.1.1
 	github.com/jackmordaunt/icns v1.0.0
 	github.com/logrusorgru/aurora v2.0.3+incompatible
 	github.com/melbahja/bundler v0.0.0-20201106222256-0b0123a34616
