@@ -3,7 +3,7 @@
 
 package builders
 
-import "github.com/ntindle/guark/cmd/guark/utils"
+import "github.com/guark/guark/cmd/guark/utils"
 
 // Builders/Compilers/Packagers interface.
 type Builder interface {

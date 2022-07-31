@@ -8,7 +8,7 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/ntindle/guark/cmd/guark/utils"
+	"github.com/guark/guark/cmd/guark/utils"
 )
 
 // Front-end UI builder

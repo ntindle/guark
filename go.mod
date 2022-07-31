@@ -1,4 +1,4 @@
-module github.com/ntindle/guark
+module github.com/guark/guark
 
 go 1.18
 

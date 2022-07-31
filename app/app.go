@@ -9,8 +9,8 @@ import (
 	"path/filepath"
 
 	"github.com/adrg/xdg"
-	"github.com/ntindle/guark/log"
-	"github.com/ntindle/guark/platform"
+	"github.com/guark/guark/log"
+	"github.com/guark/guark/platform"
 	"gopkg.in/yaml.v2"
 )
 

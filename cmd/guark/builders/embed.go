@@ -7,8 +7,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ntindle/guark/cmd/guark/utils"
-	"github.com/ntindle/guark/embed"
+	"github.com/guark/guark/cmd/guark/utils"
+	"github.com/guark/guark/embed"
 )
 
 // Embeded files builder.
