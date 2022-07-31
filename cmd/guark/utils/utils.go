@@ -14,7 +14,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/guark/ntindle/utils"
+	"github.com/guark/guark/utils"
 	"github.com/urfave/cli/v2"
 )
 

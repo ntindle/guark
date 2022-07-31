@@ -8,8 +8,8 @@ package engine
 import (
 	"fmt"
 
-	"github.com/guark/ntindle/app"
-	"github.com/guark/ntindle/server"
+	"github.com/guark/guark/app"
+	"github.com/guark/guark/server"
 	"github.com/webview/webview"
 )
 

@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/guark/ntindle/app"
-	"github.com/guark/ntindle/server"
+	"github.com/guark/guark/app"
+	"github.com/guark/guark/server"
 )
 
 func intVal(i interface{}, def int) int {

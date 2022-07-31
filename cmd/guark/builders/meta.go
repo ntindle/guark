@@ -10,7 +10,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/guark/ntindle/cmd/guark/utils"
+	"github.com/guark/guark/cmd/guark/utils"
 )
 
 // Meta files builder.
