@@ -6,7 +6,7 @@
 package engine
 
 import (
-	"github.com/guark/guark/app"
+	"github.com/guark/ntindle/app"
 )
 
 func New(a *app.App) app.Engine {

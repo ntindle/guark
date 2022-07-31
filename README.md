@@ -45,7 +45,7 @@ Guark backend and logic part handled by native Go code, while the user interface
 
 #### 1. Install guark CLI tool:
 ```bash
-go install github.com/guark/guark/cmd/guark@latest
+go install github.com/guark/ntindle/cmd/guark@latest
 ```
 
 #### 2. Some Requirements:
@@ -95,7 +95,7 @@ guark run
 // lib/funcs/foo_bar.go
 
 import (
-    "github.com/guark/guark/app"
+    "github.com/guark/ntindle/app"
 )
 
 func FooBar(c app.Context) (interface{}, error) {
@@ -249,5 +249,5 @@ PRs, issues, and feedback from ninja gophers are very welcomed.
 
 ## License
 
-Guark is provided under the [MIT License](https://github.com/guark/guark/blob/master/LICENSE).
+Guark is provided under the [MIT License](https://github.com/guark/ntindle/blob/master/LICENSE).
 

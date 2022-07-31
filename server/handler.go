@@ -9,8 +9,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/guark/guark/app"
-	"github.com/guark/guark/log"
+	"github.com/guark/ntindle/app"
+	"github.com/guark/ntindle/log"
 )
 
 type Handler struct {

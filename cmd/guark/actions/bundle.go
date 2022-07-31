@@ -6,8 +6,8 @@ package actions
 import (
 	"io/ioutil"
 
-	"github.com/guark/guark/cmd/guark/builders"
-	"github.com/guark/guark/utils"
+	"github.com/guark/ntindle/cmd/guark/builders"
+	"github.com/guark/ntindle/utils"
 	"github.com/melbahja/bundler/bundle"
 	"github.com/urfave/cli/v2"
 	"gopkg.in/yaml.v2"

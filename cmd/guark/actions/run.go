@@ -12,9 +12,9 @@ import (
 	"syscall"
 	"time"
 
-	. "github.com/guark/guark/cmd/guark/utils"
-	"github.com/guark/guark/embed"
-	"github.com/guark/guark/utils"
+	. "github.com/guark/ntindle/cmd/guark/utils"
+	"github.com/guark/ntindle/embed"
+	"github.com/guark/ntindle/utils"
 	"github.com/urfave/cli/v2"
 )
 

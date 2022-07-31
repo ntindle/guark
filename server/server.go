@@ -8,7 +8,7 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/guark/guark/app"
+	"github.com/guark/ntindle/app"
 )
 
 type Server struct {

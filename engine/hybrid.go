@@ -6,7 +6,7 @@
 package engine
 
 import (
-	"github.com/guark/guark/app"
+	"github.com/guark/ntindle/app"
 	"github.com/zserge/lorca"
 )
 

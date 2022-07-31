@@ -7,8 +7,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/guark/guark/cmd/guark/actions"
-	"github.com/guark/guark/cmd/guark/utils"
+	"github.com/guark/ntindle/cmd/guark/actions"
+	"github.com/guark/ntindle/cmd/guark/utils"
 	"github.com/urfave/cli/v2"
 )
 
